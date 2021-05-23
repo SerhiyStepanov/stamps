@@ -1,0 +1,20 @@
+.wrapper {
+  padding: 20px;
+  display: block;
+}
+
+.thumb {
+  width: 100%;
+}
+
+.header {
+  text-align: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(43, 43, 43);
+}
+
+.stamp {
+  display: block;
+  width: 24px;
+}
