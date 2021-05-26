@@ -2,6 +2,11 @@
   margin: 50px 20px;
 }
 
+.title {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .thumb {
   display: flex;
   flex-direction: column;
