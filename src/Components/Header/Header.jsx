@@ -8,7 +8,7 @@ export default function Header() {
         <div className={s.thumb}>
         <img src="stamp.svg" alt="post" className={s.stamp} />
 
-        <h4 className={s.header}>Stamps of the world .</h4>
+        <h4 className={s.header}>Stamps of the world.</h4>
 
         <img src="stamp.svg" alt="post" className={s.stamp} />
 
