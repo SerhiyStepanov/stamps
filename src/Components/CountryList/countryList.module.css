@@ -1,0 +1,31 @@
+.wrapper {
+  margin: 50px 20px;
+}
+
+.thumb {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+}
+
+.list {
+  list-style: circle;
+  color: var(--tomato-color);
+  list-style-position: outside;
+}
+
+.link {
+  display: inline-flex;
+  padding: 4px 8px;
+  margin-bottom: 10px;
+  color: var(--tomato-color);
+
+  transition: color 300ms linear;
+}
+
+.link:hover,
+.link:focus {
+  color: var(--accent-color);
+
+  transition: color 300ms linear;
+}

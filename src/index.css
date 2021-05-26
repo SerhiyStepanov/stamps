@@ -20,4 +20,6 @@ code {
 :root {
   --background-color: rgb(200, 210, 220);
   --dark-color: rgb(43, 43, 43);
+  --tomato-color: tomato;
+  --accent-color: rgb(20, 160, 20);
 }
