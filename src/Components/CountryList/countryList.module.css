@@ -23,7 +23,7 @@
   display: inline-flex;
   padding: 4px 8px;
   margin-bottom: 10px;
-  color: var(--tomato-color);
+  color: var(--link-color);
 
   transition: color 300ms linear;
 }
