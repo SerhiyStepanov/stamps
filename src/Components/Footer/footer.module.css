@@ -1,0 +1,19 @@
+.wrapper {
+  margin-top: auto;
+  width: 100%;
+  padding: 20px;
+}
+
+.thumb {
+  padding: 10px;
+}
+
+b {
+  color: var(--dark-color);
+}
+
+.link {
+  display: inline-flex;
+  color: var(--link-color);
+  margin-left: 20px;
+}

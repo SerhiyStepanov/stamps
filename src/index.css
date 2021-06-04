@@ -8,7 +8,6 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-  min-height: 100vh;
   background-color: var(--background-color);
 }
 
@@ -22,4 +21,10 @@ code {
   --dark-color: rgb(43, 43, 43);
   --link-color: rgb(70, 170, 255);
   --accent-color: rgb(255, 100, 0);
+}
+
+#root,
+html,
+body {
+  min-height: 100vh;
 }
