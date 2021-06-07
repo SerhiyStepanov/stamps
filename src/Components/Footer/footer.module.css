@@ -14,6 +14,15 @@ b {
 
 .link {
   display: inline-flex;
-  color: var(--link-color);
+  color: var(--dark-color);
   margin-left: 20px;
+
+  transition: color 300ms linear;
+}
+
+.link:hover,
+.link:focus {
+  color: var(--accent-color);
+
+  transition: color 300ms linear;
 }
