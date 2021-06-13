@@ -17,9 +17,9 @@ code {
 }
 
 :root {
-  --background-color: rgb(220, 220, 230);
-  --dark-color: rgb(43, 43, 43);
-  --link-color: rgb(25, 75, 150);
+  --background-color: rgb(220, 225, 230);
+  --dark-color: rgb(48, 48, 48);
+  --link-color: rgb(50, 100, 160);
   --accent-color: rgb(255, 100, 50);
 }
 
