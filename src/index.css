@@ -17,10 +17,10 @@ code {
 }
 
 :root {
-  --background-color: rgb(200, 210, 220);
+  --background-color: rgb(220, 220, 230);
   --dark-color: rgb(43, 43, 43);
-  --link-color: rgb(70, 170, 255);
-  --accent-color: rgb(255, 100, 0);
+  --link-color: rgb(25, 75, 150);
+  --accent-color: rgb(255, 100, 50);
 }
 
 #root,
